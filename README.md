@@ -6,7 +6,9 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-gilly.vercel.app/api/spotify-playing" alt="gillyhuga Spotify Playing" width="350" />](https://open.spotify.com/user/312tbfzm3r2i2eqeiurzp2uajpyy)
+<a href="https://open.spotify.com/user/312tbfzm3r2i2eqeiurzp2uajpyy">
+    <img src="https://now-playing-gilly2.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gillyhuga)](https://github.com/gillyhuga)
 
