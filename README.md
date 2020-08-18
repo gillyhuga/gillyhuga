@@ -8,6 +8,8 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="gillyhuga Spotify Playing" width="350" />](https://open.spotify.com/user/312tbfzm3r2i2eqeiurzp2uajpyy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gillyhuga)](https://github.com/gillyhuga)
+
 ### Connect with me:
 
 [<img align="left" alt="gillyhuga.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
