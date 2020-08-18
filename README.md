@@ -10,7 +10,6 @@
     <img src="https://now-playing-gilly2.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 
-<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gillyhuga)](https://github.com/gillyhuga)
 
 ### Connect with me:
