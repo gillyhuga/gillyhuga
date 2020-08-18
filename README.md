@@ -4,7 +4,7 @@
 
 - I'm currently learning everything 💫
 
-### Spotify Playing 🎧
+**Now Playing** on Spotify
 
 <a href="https://open.spotify.com/user/312tbfzm3r2i2eqeiurzp2uajpyy">
     <img src="https://now-playing-gilly2.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
