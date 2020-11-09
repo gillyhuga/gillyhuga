@@ -1,7 +1,5 @@
 ## Hi there, I'm Gilly 👋
 
-[![Website](https://img.shields.io/website?label=gillyhuga.xyz&style=for-the-badge&url=https%3A%2F%2Fgillyhuga.xyz)](https://gillyhuga.xyz)
-
 ### Connect with me:
 
 [<img align="left" alt="gillyhuga.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
