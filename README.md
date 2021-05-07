@@ -3,7 +3,7 @@ I consider myself as a technology enthusiast.
 
 :mailbox: Reach me at : gillyhuga@webmail.umm.ac.id
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif' width='200"'>
 
 ### Connect with me:
 
