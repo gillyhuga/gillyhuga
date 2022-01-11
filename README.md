@@ -1,9 +1,9 @@
 ## Hi there, I'm Gilly <img src="https://raw.githubusercontent.com/gillyhuga/gillyhuga/master/wave.gif" width="30px">
 I consider myself as a technology enthusiast. 
 
-:mailbox: Reach me at : gillyhuga@webmail.umm.ac.id
+:mailbox: Reach me at : gilly.huga@yahoo.co.id
 
-<img align='right' src='https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif' width='200"'>
+
 
 ### Connect with me:
 
@@ -15,7 +15,7 @@ I consider myself as a technology enthusiast.
 
 
 
-[website]: https://gillyhuga.xyz
+[website]: https://gillyhuga.github.io/
 
 [instagram]: https://instagram.com/halogilly
 
