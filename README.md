@@ -21,5 +21,5 @@ Hi there! 👋
 * ✉️  You can contact me at [hello@gillyhuga.com](mailto:hello@gillyhuga.com)
 
 <a href="https://wakatime.com/@gillyhuga">
-  <img style="width:450px; height:170px" src="https://github-readme-stats.vercel.app/api/wakatime?username=gillyhuga&langs_count=3&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true" alt="gillyhuga's Wakatime stats" />
+  <img style="width:450px; height:170px" src="https://github-readme-stats.vercel.app/api/wakatime?username=gillyhuga&langs_count=3&title_color=1081C2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true" alt="gillyhuga's Wakatime stats" />
 </a>
